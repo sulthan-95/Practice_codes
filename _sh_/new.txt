@@ -1,0 +1,21 @@
+#!/bin/sh
+# randomquote - given a one-line-per-entry datafile, this
+# script will randomly pick one and display it. Best used
+# as an SSI call within a Web page.
+awkscript="/tmp/randomquote.awk.$$"
+if[$#-ne1 ];then
+echo"Usage: randomquote datafilename">&2
+exit1
+elif[!-r"$1"];then
+echo"Error: quote file$1is missing or not readable">&2
+exit1
+fi
+trap"/bin/rm -f$awkscript"0
+cat<<"EOF">$awkscript
+BEGIN {srand(); }
+{ s[NR] =$0}
+END { print s[randint(NR)] }
+functionrandint(n){returnint (n*rand() ) + 1 }
+EOF
+awk -f$awkscript<"$1"
+exit0

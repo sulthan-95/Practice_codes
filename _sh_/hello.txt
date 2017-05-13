@@ -1,0 +1,3 @@
+Hello... This is a script file used to operate with sed command..
+Sed command is gonna replace hello with someother... since hello is a word and hello is to be replaced...
+we say hello.. 

@@ -1,0 +1,2 @@
+s=hello
+echo "$s"

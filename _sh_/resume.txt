@@ -1,0 +1,54 @@
+MAHMOOD SULTHAN S.M.S
+8807777901
+sulthanmyself@gmail.com
+	
+Objective
+Education
+	SSLC
+		LK Higher Secondary School
+		Secured 96.8% in SSLC 2011-2012(topped the school)
+	HSC
+		LK Higher Secondary School
+		Secured 97.25% in HSC 2013-2014(topped the school)
+	B.E(CSE)
+		College of Engineering,Guindy
+		Having 8.97 CGPA upto this Semester
+Experience
+	Volunteer in HR team of Kurukshetra'15
+	Coordinator of Reverse Coding in Abacus'16
+	Team work
+		In College Football Team 
+		In K'16
+		In Abacus'16
+Skills
+	OS's
+		Linux,Windows
+	Programming Languages
+		C,C++,Java
+		Learning Python,HTML,PHP
+	Competitive Programming
+		Competed in Many Coding events in College
+		Active Participant in Global Communities such as hackerrnk.com,spoj.com
+	Logical thinking
+		Puzzle Solving			
+Area of Interests
+	Data Structures and Algorithms
+	Learning new Programming Languages
+Projects and Achievements
+	Designed Moderate Level TicTacToe Game	in C++
+	Implementation integer Radix sort with LinkedList
+	Designed mini Ecommerce Database using MySql
+	Designed a Sudoku Solver with Cpp
+	Attempting a simple word editor with Cpp(Tag)
+	Finalist in geeks-2g in Sync'15
+	Finalist in OSPC in Kurukshetra'16
+	Winner of Coding Hungama in Abacus'16	
+Hobbies
+	Football,Quizzing
+Personal Info
+	Name          : Mahmood Sulthan S.M.S.
+	D.O.B         : 21/11/1995
+	Father's Name : Seyed Mohamed Shaduly O.F.
+	Languages     : English,Tamil,German
+	Native        : Kayalpatnam,Tuticorin District,TamilNadu
+	Nationality   : Indian
